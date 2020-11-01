@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CartonCloudDemo</string>
+    <string name="btn_text">Load Weather</string>
+    <string name="btn_text2">Check Weather</string>
+    <string name="error_view_title">Error</string>
+    <string name="error_message">Error in fetching weather information</string>
+</resources>
